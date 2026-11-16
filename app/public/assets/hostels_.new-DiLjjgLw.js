@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-NZYk81nU.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`p-8 text-center text-zinc-400`,children:`Hostel form coming soon...`});export{n as component};
